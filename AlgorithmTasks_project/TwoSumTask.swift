@@ -6,6 +6,8 @@
 //
 
 class TwoSumTask {
+    /// на вход подается массив чисел и target
+    /// нужно вернуть индексы двух чисел дающих в сумме target
     func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
         guard !nums.isEmpty else { return [] }
         
