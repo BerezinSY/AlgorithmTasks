@@ -13,6 +13,7 @@
 		2531CE322BFE5D1F001E688C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2531CE302BFE5D1F001E688C /* Main.storyboard */; };
 		2531CE342BFE5D21001E688C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2531CE332BFE5D21001E688C /* Assets.xcassets */; };
 		2531CE372BFE5D21001E688C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2531CE352BFE5D21001E688C /* LaunchScreen.storyboard */; };
+		2531CE432BFE72ED001E688C /* TwoSumTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2531CE422BFE72ED001E688C /* TwoSumTask.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2531CE332BFE5D21001E688C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2531CE362BFE5D21001E688C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2531CE382BFE5D21001E688C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2531CE422BFE72ED001E688C /* TwoSumTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSumTask.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				2531CE2A2BFE5D1F001E688C /* AppDelegate.swift */,
 				2531CE2C2BFE5D1F001E688C /* SceneDelegate.swift */,
 				2531CE2E2BFE5D1F001E688C /* ViewController.swift */,
+				2531CE422BFE72ED001E688C /* TwoSumTask.swift */,
 				2531CE302BFE5D1F001E688C /* Main.storyboard */,
 				2531CE332BFE5D21001E688C /* Assets.xcassets */,
 				2531CE352BFE5D21001E688C /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2531CE2F2BFE5D1F001E688C /* ViewController.swift in Sources */,
+				2531CE432BFE72ED001E688C /* TwoSumTask.swift in Sources */,
 				2531CE2B2BFE5D1F001E688C /* AppDelegate.swift in Sources */,
 				2531CE2D2BFE5D1F001E688C /* SceneDelegate.swift in Sources */,
 			);
