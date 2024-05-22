@@ -61,13 +61,21 @@
 				2531CE2A2BFE5D1F001E688C /* AppDelegate.swift */,
 				2531CE2C2BFE5D1F001E688C /* SceneDelegate.swift */,
 				2531CE2E2BFE5D1F001E688C /* ViewController.swift */,
-				2531CE422BFE72ED001E688C /* TwoSumTask.swift */,
+				2531CE442BFE7447001E688C /* Tasks */,
 				2531CE302BFE5D1F001E688C /* Main.storyboard */,
 				2531CE332BFE5D21001E688C /* Assets.xcassets */,
 				2531CE352BFE5D21001E688C /* LaunchScreen.storyboard */,
 				2531CE382BFE5D21001E688C /* Info.plist */,
 			);
 			path = AlgorithmTasks_project;
+			sourceTree = "<group>";
+		};
+		2531CE442BFE7447001E688C /* Tasks */ = {
+			isa = PBXGroup;
+			children = (
+				2531CE422BFE72ED001E688C /* TwoSumTask.swift */,
+			);
+			path = Tasks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
