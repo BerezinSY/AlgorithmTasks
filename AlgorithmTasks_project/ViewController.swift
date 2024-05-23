@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print(PalindromeNumber().isPalindrome(331))
+        print(RomanIntegerTask().romanToInt("xIX"))
     }
 }
 

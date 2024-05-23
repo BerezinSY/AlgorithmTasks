@@ -15,6 +15,7 @@
 		2531CE372BFE5D21001E688C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2531CE352BFE5D21001E688C /* LaunchScreen.storyboard */; };
 		2531CE432BFE72ED001E688C /* TwoSumTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2531CE422BFE72ED001E688C /* TwoSumTask.swift */; };
 		2531CE462BFE76DB001E688C /* PalindromeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2531CE452BFE76DB001E688C /* PalindromeNumber.swift */; };
+		2531CE482BFF3FED001E688C /* RomanIntegerTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2531CE472BFF3FED001E688C /* RomanIntegerTask.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		2531CE382BFE5D21001E688C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2531CE422BFE72ED001E688C /* TwoSumTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSumTask.swift; sourceTree = "<group>"; };
 		2531CE452BFE76DB001E688C /* PalindromeNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromeNumber.swift; sourceTree = "<group>"; };
+		2531CE472BFF3FED001E688C /* RomanIntegerTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomanIntegerTask.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			children = (
 				2531CE422BFE72ED001E688C /* TwoSumTask.swift */,
 				2531CE452BFE76DB001E688C /* PalindromeNumber.swift */,
+				2531CE472BFF3FED001E688C /* RomanIntegerTask.swift */,
 			);
 			path = Tasks;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				2531CE2F2BFE5D1F001E688C /* ViewController.swift in Sources */,
 				2531CE432BFE72ED001E688C /* TwoSumTask.swift in Sources */,
 				2531CE2B2BFE5D1F001E688C /* AppDelegate.swift in Sources */,
+				2531CE482BFF3FED001E688C /* RomanIntegerTask.swift in Sources */,
 				2531CE2D2BFE5D1F001E688C /* SceneDelegate.swift in Sources */,
 				2531CE462BFE76DB001E688C /* PalindromeNumber.swift in Sources */,
 			);

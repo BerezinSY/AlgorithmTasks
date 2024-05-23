@@ -31,7 +31,7 @@ class PalindromeNumber {
         var reversedNumber = 0
 
         while number > 0 {
-            var rightDigit = number % 10
+            let rightDigit = number % 10
             reversedNumber = reversedNumber * 10 + rightDigit
             number /= 10
         }
