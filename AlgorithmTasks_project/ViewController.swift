@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print(RomanIntegerTask().romanToInt("xIX"))
+        print(ValidParenthesesTask().isValid("(([]{}"))
     }
 }
 
