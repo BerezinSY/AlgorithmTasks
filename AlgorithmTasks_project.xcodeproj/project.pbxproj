@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2529525A2C08C21C00BD392A /* RemoveDublicatesFromSortedArrayTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 252952592C08C21C00BD392A /* RemoveDublicatesFromSortedArrayTask.swift */; };
 		2531CE2B2BFE5D1F001E688C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2531CE2A2BFE5D1F001E688C /* AppDelegate.swift */; };
 		2531CE2D2BFE5D1F001E688C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2531CE2C2BFE5D1F001E688C /* SceneDelegate.swift */; };
 		2531CE2F2BFE5D1F001E688C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2531CE2E2BFE5D1F001E688C /* ViewController.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		252952592C08C21C00BD392A /* RemoveDublicatesFromSortedArrayTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDublicatesFromSortedArrayTask.swift; sourceTree = "<group>"; };
 		2531CE272BFE5D1F001E688C /* AlgorithmTasks_project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AlgorithmTasks_project.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2531CE2A2BFE5D1F001E688C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2531CE2C2BFE5D1F001E688C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 				2531CE472BFF3FED001E688C /* RomanIntegerTask.swift */,
 				25D982842BFF7BD300EB2B59 /* LongestCommonPrefixTask.swift */,
 				25D982862BFFB54600EB2B59 /* ValidParenthesesTask.swift */,
+				252952592C08C21C00BD392A /* RemoveDublicatesFromSortedArrayTask.swift */,
 			);
 			path = Tasks;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 				25D982872BFFB54600EB2B59 /* ValidParenthesesTask.swift in Sources */,
 				2531CE432BFE72ED001E688C /* TwoSumTask.swift in Sources */,
 				2531CE2B2BFE5D1F001E688C /* AppDelegate.swift in Sources */,
+				2529525A2C08C21C00BD392A /* RemoveDublicatesFromSortedArrayTask.swift in Sources */,
 				2531CE482BFF3FED001E688C /* RomanIntegerTask.swift in Sources */,
 				2531CE2D2BFE5D1F001E688C /* SceneDelegate.swift in Sources */,
 				2531CE462BFE76DB001E688C /* PalindromeNumber.swift in Sources */,

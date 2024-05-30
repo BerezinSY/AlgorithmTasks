@@ -11,7 +11,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print(ValidParenthesesTask().isValid("(([]{}"))
+        var elements: [Int] = [1, 1, 2, 2, 3, 4]
+        print(elements)
+        print(RemoveDublicatesFromSortedArrayTask().removeDuplicates1(&elements))
+        print(elements)
     }
 }
 
