@@ -18,6 +18,7 @@
 		2531CE462BFE76DB001E688C /* PalindromeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2531CE452BFE76DB001E688C /* PalindromeNumber.swift */; };
 		2531CE482BFF3FED001E688C /* RomanIntegerTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2531CE472BFF3FED001E688C /* RomanIntegerTask.swift */; };
 		25D970CA2C0B880E00AB3751 /* RemoveElementTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D970C92C0B880E00AB3751 /* RemoveElementTask.swift */; };
+		25D970CC2C0B933700AB3751 /* BinarySearchTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D970CB2C0B933700AB3751 /* BinarySearchTask.swift */; };
 		25D982852BFF7BD300EB2B59 /* LongestCommonPrefixTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D982842BFF7BD300EB2B59 /* LongestCommonPrefixTask.swift */; };
 		25D982872BFFB54600EB2B59 /* ValidParenthesesTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D982862BFFB54600EB2B59 /* ValidParenthesesTask.swift */; };
 /* End PBXBuildFile section */
@@ -36,6 +37,7 @@
 		2531CE452BFE76DB001E688C /* PalindromeNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromeNumber.swift; sourceTree = "<group>"; };
 		2531CE472BFF3FED001E688C /* RomanIntegerTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomanIntegerTask.swift; sourceTree = "<group>"; };
 		25D970C92C0B880E00AB3751 /* RemoveElementTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveElementTask.swift; sourceTree = "<group>"; };
+		25D970CB2C0B933700AB3751 /* BinarySearchTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearchTask.swift; sourceTree = "<group>"; };
 		25D982842BFF7BD300EB2B59 /* LongestCommonPrefixTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCommonPrefixTask.swift; sourceTree = "<group>"; };
 		25D982862BFFB54600EB2B59 /* ValidParenthesesTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParenthesesTask.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -92,6 +94,7 @@
 				25D982862BFFB54600EB2B59 /* ValidParenthesesTask.swift */,
 				252952592C08C21C00BD392A /* RemoveDublicatesFromSortedArrayTask.swift */,
 				25D970C92C0B880E00AB3751 /* RemoveElementTask.swift */,
+				25D970CB2C0B933700AB3751 /* BinarySearchTask.swift */,
 			);
 			path = Tasks;
 			sourceTree = "<group>";
@@ -172,6 +175,7 @@
 				25D982872BFFB54600EB2B59 /* ValidParenthesesTask.swift in Sources */,
 				2531CE432BFE72ED001E688C /* TwoSumTask.swift in Sources */,
 				2531CE2B2BFE5D1F001E688C /* AppDelegate.swift in Sources */,
+				25D970CC2C0B933700AB3751 /* BinarySearchTask.swift in Sources */,
 				25D970CA2C0B880E00AB3751 /* RemoveElementTask.swift in Sources */,
 				2529525A2C08C21C00BD392A /* RemoveDublicatesFromSortedArrayTask.swift in Sources */,
 				2531CE482BFF3FED001E688C /* RomanIntegerTask.swift in Sources */,

@@ -11,9 +11,9 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        var elements: [Int] = [1, 1, 2, 2, 3, 4]
+        var elements: [Int] = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
         print(elements)
-        print(RemoveElementTask().removeElement(&elements, 2))
+        print(BinarySearchTask().binarySearch(element: 10, in: elements))
         print(elements)
     }
 }
