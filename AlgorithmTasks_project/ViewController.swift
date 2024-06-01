@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         var elements: [Int] = [1, 1, 2, 2, 3, 4]
         print(elements)
-        print(RemoveDublicatesFromSortedArrayTask().removeDuplicates1(&elements))
+        print(RemoveElementTask().removeElement(&elements, 2))
         print(elements)
     }
 }
