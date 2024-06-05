@@ -15,18 +15,18 @@ class BinarySearchTask {
     /// Если элемента в массиве нет = возвращаем nil
     
     func binarySearch(element: Int, in collection: [Int]) -> Int? {
-        var leftBound = 0
-        var rightBound = collection.indices.count - 1
+        var lhsBound = 0
+        var rhsBound = collection.indices.count - 1
         
-        while leftBound <= rightBound {
-            let middleBound = (leftBound + rightBound) / 2
+        while lhsBound <= rhsBound {
+            let midBound = (lhsBound + rhsBound) / 2
             
-            if element == collection[middleBound] {
-                return middleBound
-            } else if element < collection[middleBound] {
-                rightBound = middleBound - 1
-            } else if element > collection[middleBound] {
-                leftBound = middleBound + 1
+            if element == collection[midBound] {
+                return midBound
+            } else if element < collection[midBound] {
+                rhsBound = midBound - 1
+            } else if element > collection[midBound] {
+                lhsBound = midBound + 1
             }
         }
         
